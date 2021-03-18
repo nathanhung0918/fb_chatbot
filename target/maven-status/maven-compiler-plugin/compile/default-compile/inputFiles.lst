@@ -1,0 +1,9 @@
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/config/KafkaProducerConfig.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/config/KafkaConsumerConfig.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/service/ReplyService.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/com/example/demo/FbChatBotApplication.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/controller/ChatController.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/config/KafkaTopicConfig.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/kafka/entity/KafkaConsumer.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/config/MultiKafkaListenerConfig.java
+/Users/nathan/STS_workspace/FB_ChatBot/src/main/java/kafka/entity/KafkaProducer.java
